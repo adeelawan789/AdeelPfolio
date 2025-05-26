@@ -86,7 +86,7 @@ export default function Hero() {
           </motion.p>
 
           <motion.a
-            href="/Adeel-CV.pdf"
+            href="https://drive.google.com/file/d/10qBb-4tYKL2ArIEEs1DNW4HNt3MeY3uU/view?usp=drive_link"
             download
             className="inline-block mt-6 bg-white/10 hover:bg-white/20 backdrop-blur-md px-6 py-3 rounded-full border border-white/20 transition text-sm sm:text-base"
             whileHover={{ scale: 1.05 }}
